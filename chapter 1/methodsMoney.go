@@ -1,6 +1,7 @@
 package chapter_1
 
 import (
+	"github.com/Rhymond/go-money"
 	"log"
 )
 
